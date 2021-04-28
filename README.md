@@ -6,7 +6,7 @@ Tested with Python 3.6.
 
 Citation
 --------
-Viet Huynh, Nhat Ho, Nhan Dam, XuanLong Nguyen, XuanLong Nguyen, Hung Bui, and Dinh Phung. '*On Efficient Multilevel Clustering via Wasserstein Distances*'. Journal of Machine Learning Research, 2021.
+Viet Huynh, Nhat Ho, Nhan Dam, XuanLong Nguyen, XuanLong Nguyen, Hung Bui, and Dinh Phung, '*On Efficient Multilevel Clustering via Wasserstein Distances*', Journal of Machine Learning Research, 2021.
 
 Bibtex
 ------
